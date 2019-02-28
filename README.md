@@ -44,14 +44,14 @@ java HMACSHA1 [key] [file]
 For example,
 
 ``` Shell
-java HMACSHA1 shuw127 mytarball5.tgz
+java HMACSHA1 shuw127 testfile.tgz
 ```
 
 And the output should be:
 ``` Shell
 Key         : shuw127
 Hashed Key  : 5E9D8FF86CCE4780AF80C37A47BC8251E85D1AD4
-File name   : mytarball5.tgz
+File name   : testfile.tgz
 HMAC result : CA6ED3DE879E81F710EEF5D53C56E8B90244BD34
 ```
 
