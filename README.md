@@ -2,13 +2,14 @@
 A Implementation of HMAC Encryption by using SHA-1 Hash Function
 
 ### Introduction
-**HMACSHA1** is a C++ Implementation of Image Super-Resolution using SRCNN which is proposed by Chao Dong in 2014.
- - If you want to find the details of SRCNN algorithm, please read the paper:  
-
+**HMACSHA1** is a Java Implementation of HMAC Encryption by using SHA-1 Hash Function.
+ - If you want to find the details of encryption algorithm, please read the links:  
+ SHA-1: https://en.wikipedia.org/wiki/SHA-1
+ HMAC:  https://en.wikipedia.org/wiki/HMAC
 
 
 ### License
-SRCNN_Cpp is released under the GPL v2 License (refer to the LICENSE file for details).
+HMACSHA1 is released under the GPL v2 License (refer to the LICENSE file for details).
 
 ### Contents
 1. [Requirements](#requirements)
@@ -17,19 +18,20 @@ SRCNN_Cpp is released under the GPL v2 License (refer to the LICENSE file for de
 
 ### Requirements
 
-1. 
+1. Linux System
+2. Java
 
-**Note:**
+**Note:** You can use Eclipse IDE to compile the code.
 
 ### Compile
 
 You can compile the Java files on the command line in your Linux system. 
 
 ``` Shell
-$ ./opencv.sh SRCNN
+$ javac HMACSHA1.java
 ```
 
-If the compile is successful, you will see the information below:
+If the compile is successful, you will see the file: HMACSHA1.class
 
 ### Demo
 
