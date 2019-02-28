@@ -2,7 +2,7 @@
 A Implementation of HMAC Encryption by using SHA-1 Hash Function
 
 
-
+java HMACSHA1 shuw127 mytarball5.tgz
 
 Key         : shuw127
 Hashed Key  : 5E9D8FF86CCE4780AF80C37A47BC8251E85D1AD4
